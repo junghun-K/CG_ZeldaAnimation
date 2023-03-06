@@ -1,4 +1,4 @@
-# Lecture 13: Morphing
+# Practice: Morphing
 
 You can run the program on [GitHub pages](https://csci-4611-spring-2023.github.io/Lecture-13).
 
